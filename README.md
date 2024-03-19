@@ -1,4 +1,3 @@
-# VITISH-2023
 An internal hackathon for Kavach 23
 # Obscene Media Detection Solution
 PS ID: KVH-002
